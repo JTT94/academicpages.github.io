@@ -8,8 +8,6 @@ tags:
   - python
 ---
 
-## Intro
-
 Virtual environments are a convenient way to manage library dependencies, environment variables, and ensure reproducibility. There are a couple of approaches to this: `virtualenv`,`conda`, and `docker` -- see [here](https://towardsdatascience.com/guide-of-choosing-package-management-tool-for-data-science-project-809a093efd46) for a discussion. This post will focus on `conda`, and give a few practical commands to get up and running.
 
 - Download and install miniconda 
