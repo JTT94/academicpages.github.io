@@ -16,7 +16,7 @@ sh curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -o
 sh -x miniconda.sh -b -p "./miniconda3" 
 ```
 
-:exclamation: **Note:** The default conda set-up requires editing the .bashrc file and setting environment variables to point to the conda executable. This is a pain when dealing with multiple servers, fortunately there are ways around this and the commands given here will not rely on editing the .bashrc.
+**Note:** The default conda set-up requires editing the .bashrc file and setting environment variables to point to the conda executable. This is a pain when dealing with multiple servers, fortunately there are ways around this and the commands given here will not rely on editing the .bashrc.
 
 ## Basic commands
 - **Create environment called conda_venv, for Python version 3.8** \
@@ -29,7 +29,7 @@ This adds the environment executables such as Python, pip and conda to the execu
 - **Install/ uninstall:** (once env is activated)
   - Through conda: `conda install -c anaconda numpy`
   - Through pip: `pip install numpy` \
-:exclamation: **Note:** this pip executable will be installed when installing python, and the libraries installed via pip will be specific to the conda environment and not the global environment
+**Note:** this pip executable will be installed when installing python, and the libraries installed via pip will be specific to the conda environment and not the global environment
 
 - **Export installed dependencies to file**\
 ```conda env export > env.yaml```
