@@ -1,7 +1,7 @@
 ---
 title: 'Conda Environments'
 date: 2020-11-09
-permalink: /posts/2020/08/venv/
+permalink: /posts/2020/11/venv/
 tags:
   - programming
   - software
