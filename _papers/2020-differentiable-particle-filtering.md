@@ -5,10 +5,14 @@ permalink: /papers/2020-differentiable-particle-filtering
 excerpt: 
 date: 2020-04-01
 venue: 
-paperurl: 
+paperurl: https://arxiv.org/abs/2102.07850
 citation: 
 ---
 
-Particle Filtering (PF) methods are a powerful class of procedures for performing state inference in state-space models and computing likelihood estimates for fixed parameters. Resampling is a key ingredient of PF, necessary to obtain low variance likelihood estimates. However, resampling operations result in the simulated likelihood function being non-differentiable with respect to parameters, even if the true likelihood is itself differentiable. Traditional resampling operations also yield high variance gradient estimates of the Evidence Lower Bound (ELBO) when performing variational inference. By leveraging Optimal Transport (OT) ideas, we introduce differentiable PF, providing a differentiable simulated likelihood function. This allows one to perform parameter estimation, including learning neural network parameterisations, via maximization of the simulated likelihood using gradient ascent, and also yields low variance gradient estimates for variational inference. We demonstrate the performance of differentiable PF on various examples.
+Particle Filtering (PF) methods are an established class of procedures for performing inference in non-linear state-space models. Resampling is a key ingredient of PF, necessary to obtain low variance likelihood and states estimates. However, traditional resampling methods result in PF-based loss functions being non-differentiable with respect to model and PF parameters. In a variational inference context, resampling also yields high variance gradient estimates of the PF-based evidence lower bound. By leveraging optimal transport ideas, we introduce a principled differentiable particle filter and provide convergence results. We demonstrate this novel method on a variety of applications.
 
-Paper: Under review but available on request
+![](https://github.com/JTT94/jtt94.github.io/blob/master/files/dm_maze.gif)
+
+Paper: https://arxiv.org/abs/2102.07850
+
+
