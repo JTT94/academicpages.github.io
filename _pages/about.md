@@ -14,4 +14,3 @@ PhD student in the Computational Statistics and Machine Learning (CSML) research
 
 Prior to Oxford, I worked in a modelling and analytics role for investment management firm, BlackRock. I completed my undergraduate and Master's studies in Statistics at Warwick University where I worked with [Anthony Lee](https://sites.google.com/view/anthonylee/supervision) on Monte Carlo methods for Bayesian non-parametric models.
 
-[CV](https://github.com/JTT94/jtt94.github.io/raw/master/files/James%20Thornton%20CV.pdf)
