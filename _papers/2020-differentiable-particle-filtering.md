@@ -11,7 +11,7 @@ citation:
 
 Particle Filtering (PF) methods are an established class of procedures for performing inference in non-linear state-space models. Resampling is a key ingredient of PF, necessary to obtain low variance likelihood and states estimates. However, traditional resampling methods result in PF-based loss functions being non-differentiable with respect to model and PF parameters. In a variational inference context, resampling also yields high variance gradient estimates of the PF-based evidence lower bound. By leveraging optimal transport ideas, we introduce a principled differentiable particle filter and provide convergence results. We demonstrate this novel method on a variety of applications.
 
-<img src="https://github.com/JTT94/jtt94.github.io/blob/master/files/dm_maze.gif"/>
+<img src="https://github.com/JTT94/jtt94.github.io/blob/master/files/dm_maze.gif" width="800" height="300"/>
 
 
 [Paper](https://arxiv.org/abs/2102.07850)
