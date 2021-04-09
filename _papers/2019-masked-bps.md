@@ -5,7 +5,7 @@ permalink: /papers/2020-masked-bps
 excerpt: 
 date: 2020-02-20
 venue: 
-paperurl: 
+paperurl: https://github.com/JTT94/jtt94.github.io/raw/master/files/Masked_Bouncy_Particle_Sampler.pdf
 citation: 
 ---
 
