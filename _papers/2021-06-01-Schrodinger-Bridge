@@ -12,13 +12,13 @@ citation:
 This repository contains the implementation for the paper Diffusion
 Schr&ouml;dinger Bridge with Applications to Score-Based Generative Modeling.
 
-Contributors
-------------
+## Contributors
+
 
 * ???
 
-What is a Schr&ouml;dinger bridge?
------------------------------
+
+## What is a Schr&ouml;dinger bridge?
 
 The Schr&ouml;dinger Bridge (SB) problem is a classical problem appearing in
 applied mathematics, optimal control and probability; see [1, 2, 3].  In the
@@ -36,8 +36,8 @@ existing score-based generative modeling methods [5, 6].
 
 ![Schrodinger bridge](schrodinger_bridge.png)
 
-Installation
-------------
+## Installation
+
 
 This project can be installed from its git repository. 
 
@@ -60,14 +60,9 @@ or, if `git` is unavailable, download as a ZIP from GitHub https://github.com/<r
     - Simple tutorials are available in the notebooks folder.
     - More comprehensive examples, used in our paper, are in the scripts folder.
 
-How to use this code?
----------------------
-
-TODO
 
 
-Two dimensional examples
-------------------------
+##Two dimensional examples
 
 <p float="left">
   <img src="gif/circle_init.png" width="300" />
@@ -109,14 +104,12 @@ Two dimensional examples
   <img src="files/gif_schro/checker_0123.gif" width="300" /> 
 </p>
 
-MNIST example
---------------
+## MNIST example
 
 ![MNIST](files/gif/mnist_out.gif)
 
 
-Dataset interpolation
---------------
+## Dataset interpolation
 
 <p float="left">
   <img src="files/gif/moon_init.png" width="235" />
@@ -138,30 +131,30 @@ Dataset interpolation
 
 
 
-References
-----------
+## References
 
-.. [1] Hans F&ouml;llmer
+
+ [1] Hans F&ouml;llmer
        *Random fields and diffusion processes*
        In: École d'été de Probabilités de Saint-Flour 1985-1987
 
-.. [2] Christian Léonard 
+ [2] Christian Léonard 
        *A survey of the Schr&ouml;dinger problem and some of its connections with optimal transport*
        In: Discrete & Continuous Dynamical Systems-A 2014
 
-.. [3] Yongxin Chen, Tryphon Georgiou and Michele Pavon
+ [3] Yongxin Chen, Tryphon Georgiou and Michele Pavon
        *Optimal Transport in Systems and Control*
        In: Annual Review of Control, Robotics, and Autonomous Systems 2020
 
-.. [4] Aapo Hyv&auml;rinen and Peter Dayan
+ [4] Aapo Hyv&auml;rinen and Peter Dayan
        *Estimation of non-normalized statistical models by score matching*
        In: Journal of Machine Learning Research 2005
 
-.. [5] Yang Song and Stefano Ermon
+ [5] Yang Song and Stefano Ermon
        *Generative modeling by estimating gradients of the data distribution*
        In: Advances in Neural Information Processing Systems 2019
 
-.. [6] Jonathan Ho, Ajay Jain and Pieter Abbeel
+ [6] Jonathan Ho, Ajay Jain and Pieter Abbeel
        *Denoising diffusion probabilistic models*
        In: Advances in Neural Information Processing Systems 2020
 
