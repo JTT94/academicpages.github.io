@@ -64,68 +64,68 @@ or, if `git` is unavailable, download as a ZIP from GitHub https://github.com/<r
 ##Two dimensional examples
 
 <p float="left">
-  <img src="gif/circle_init.png" width="300" />
-  <img src="gif_schro/circle_0123.gif" width="300" /> 
+  <img src="../files/gif/circle_init.png" width="300" />
+  <img src="../files/gif_schro/circle_0123.gif" width="300" /> 
 </p>
 
 <p float="left">
-  <img src="files/gif/moon_init.png" width="300" />
-  <img src="files/gif_schro/moon_0123.gif" width="300" /> 
+  <img src="../files/gif/moon_init.png" width="300" />
+  <img src="../files/gif_schro/moon_0123.gif" width="300" /> 
 </p>
 
 <p float="left">
-  <img src="files/gif/pinwheel_init.png" width="300" />
-  <img src="files/gif_schro/pinwheel_0123.gif" width="300" /> 
+  <img src="../files/gif/pinwheel_init.png" width="300" />
+  <img src="../files/gif_schro/pinwheel_0123.gif" width="300" /> 
 </p>
 
 <p float="left">
-  <img src="files/gif/mixture_init.png" width="300" />
-  <img src="files/gif_schro/mixture_0123.gif" width="300" /> 
+  <img src="../files/gif/mixture_init.png" width="300" />
+  <img src="../files/gif_schro/mixture_0123.gif" width="300" /> 
 </p>
 
 <p float="left">
-  <img src="files/gif/swiss_init.png" width="300" />
-  <img src="files/gif_schro/swiss_0123.gif" width="300" /> 
+  <img src="../files/gif/swiss_init.png" width="300" />
+  <img src="../files/gif_schro/swiss_0123.gif" width="300" /> 
 </p>
 
 <p float="left">
-  <img src="files/gif/scurve_init.png" width="300" />
-  <img src="files/gif_schro/scurve_0123.gif" width="300" /> 
+  <img src="../files/gif/scurve_init.png" width="300" />
+  <img src="../files/gif_schro/scurve_0123.gif" width="300" /> 
 </p>
 
 <p float="left">
-  <img src="files/gif/8gaussians_init.png" width="300" />
-  <img src="files/gif_schro/8gaussians_0123.gif" width="300" /> 
+  <img src="../files/gif/8gaussians_init.png" width="300" />
+  <img src="../files/gif_schro/8gaussians_0123.gif" width="300" /> 
 </p>
 
 <p float="left">
-  <img src="files/gif/checker_init.png" width="300" />
-  <img src="files/gif_schro/checker_0123.gif" width="300" /> 
+  <img src="../files/gif/checker_init.png" width="300" />
+  <img src="../files/gif_schro/checker_0123.gif" width="300" /> 
 </p>
 
 ## MNIST example
 
-![MNIST](files/gif/mnist_out.gif)
+![MNIST](../files/gif/mnist_out.gif)
 
 
 ## Dataset interpolation
 
 <p float="left">
-  <img src="files/gif/moon_init.png" width="235" />
-  <img src="files/gif_interpolation/moon2scurve.gif" width="235" />
-  <img src="files/gif/scurve_init.png" width="235" />
+  <img src="../files/gif/moon_init.png" width="235" />
+  <img src="../files/gif_interpolation/moon2scurve.gif" width="235" />
+  <img src="../files/gif/scurve_init.png" width="235" />
 </p>
 
 <p float="left">
-  <img src="files/gif/scurve_init.png" width="235" />
-  <img src="files/gif_interpolation/scurve2moon.gif" width="235" />
-  <img src="files/gif/moon_init.png" width="235" />
+  <img src="../files/gif/scurve_init.png" width="235" />
+  <img src="../files/gif_interpolation/scurve2moon.gif" width="235" />
+  <img src="../files/gif/moon_init.png" width="235" />
 </p>
 
 <p float="left">
-  <img src="files/gif/circle_init.png" width="235" />
-  <img src="files/gif_interpolation/circle2scurve.gif" width="235" />
-  <img src="files/gif/scurve_init.png" width="235" />
+  <img src="../files/gif/circle_init.png" width="235" />
+  <img src="../files/gif_interpolation/circle2scurve.gif" width="235" />
+  <img src="../files/gif/scurve_init.png" width="235" />
 </p>
 
 
