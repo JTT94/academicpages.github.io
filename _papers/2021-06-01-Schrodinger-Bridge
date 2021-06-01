@@ -1,5 +1,5 @@
 ---
-title: "Schrodinger Bridge Particle Filtering"
+title: "Diffusion Schrodinger Bridge"
 collection: papers
 permalink: /papers/schrodinger_bridge
 excerpt: 
@@ -8,7 +8,6 @@ venue:
 paperurl: 
 citation: 
 ---
-# Diffusion Schr&ouml;dinger Bridge with Applications to Score-Based Generative Modeling
 
 This repository contains the implementation for the paper Diffusion
 Schr&ouml;dinger Bridge with Applications to Score-Based Generative Modeling.
