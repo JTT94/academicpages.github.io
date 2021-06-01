@@ -35,33 +35,8 @@ existing score-based generative modeling methods [5, 6].
 
 ![Schrodinger bridge](schrodinger_bridge.png)
 
-## Installation
 
-
-This project can be installed from its git repository. 
-
-1. Obtain the sources by:
-    
-    `git clone <https://github.com/repository>.git`
-
-or, if `git` is unavailable, download as a ZIP from GitHub https://github.com/<repository>.
-  
-2. Install:
-
-    `python -m venv venv`
-
-    `source venv/bin/activate`
-
-    `pip install -r requirements.txt`
-
-3. Check examples:
-
-    - Simple tutorials are available in the notebooks folder.
-    - More comprehensive examples, used in our paper, are in the scripts folder.
-
-
-
-##Two dimensional examples
+## Two dimensional examples
 
 <p float="left">
   <img src="../files/gif/circle_init.png" width="300" />
@@ -130,7 +105,7 @@ or, if `git` is unavailable, download as a ZIP from GitHub https://github.com/<r
 
 
 
-##References
+## References
 
 
  [1] Hans F&ouml;llmer
