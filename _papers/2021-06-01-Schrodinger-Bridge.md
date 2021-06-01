@@ -131,7 +131,7 @@ or, if `git` is unavailable, download as a ZIP from GitHub https://github.com/<r
 
 
 
-## References
+##References
 
 
  [1] Hans F&ouml;llmer
