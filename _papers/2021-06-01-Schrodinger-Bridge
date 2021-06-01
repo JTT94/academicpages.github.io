@@ -4,9 +4,6 @@ collection: papers
 permalink: /papers/schrodinger_bridge
 excerpt: 
 date: 2021-06-01
-venue: 
-paperurl: 
-citation: 
 ---
 
 This repository contains the implementation for the paper Diffusion
