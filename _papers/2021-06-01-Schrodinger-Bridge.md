@@ -33,7 +33,7 @@ to find the solutions of the SB problem. DSB can be seen as a refinement of
 existing score-based generative modeling methods [5, 6].
 
 
-![Schrodinger bridge](schrodinger_bridge.png)
+![Schrodinger bridge](../files/schrodinger_bridge.png)
 
 
 ## Two dimensional examples
