@@ -9,8 +9,7 @@ paperurl:
 citation: 
 ---
 
-This repository contains the implementation for the paper Diffusion
-Schr&ouml;dinger Bridge with Applications to Score-Based Generative Modeling.
+Diffusion Schr&ouml;dinger Bridge with Applications to Score-Based Generative Modeling.
 
 ## Contributors
 
