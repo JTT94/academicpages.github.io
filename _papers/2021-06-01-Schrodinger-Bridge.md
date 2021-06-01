@@ -14,7 +14,7 @@ Diffusion Schr&ouml;dinger Bridge with Applications to Score-Based Generative Mo
 ## Contributors
 
 
-* ???
+Valentin De Bortoli, James Thornton, Jeremy Heng, Arnaud Doucet
 
 
 ## What is a Schr&ouml;dinger bridge?
