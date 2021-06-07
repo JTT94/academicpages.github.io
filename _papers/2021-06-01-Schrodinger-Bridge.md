@@ -5,7 +5,7 @@ permalink: /papers/schrodinger_bridge
 excerpt: 
 date: 2021-06-01
 venue: 
-paperurl: 
+paperurl: https://arxiv.org/abs/2106.01357
 citation: 
 ---
 
