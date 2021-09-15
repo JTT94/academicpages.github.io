@@ -43,6 +43,7 @@ This adds the environment executables such as Python, pip and conda to the execu
 - ***Add kernel for environment*** \
 `python -m ipykernel install --user --name=conda_venv`
 ![conda_kernel](/images/nb_snap.PNG)
+- For windows `conda install pywin32`
 
 
 
