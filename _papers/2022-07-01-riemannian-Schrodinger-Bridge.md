@@ -1,5 +1,5 @@
 ---
-title: "Riemannian Diffusion Schrodinger BrIDGE"
+title: "Riemannian Diffusion Schrodinger Bridge"
 collection: papers
 permalink: /papers/2022-rdsb
 excerpt: 
