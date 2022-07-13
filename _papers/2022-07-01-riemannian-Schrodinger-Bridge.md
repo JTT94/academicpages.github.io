@@ -5,7 +5,7 @@ permalink: /papers/2022-rdsb
 excerpt: 
 date: 2022-07-01
 venue: 
-paperurl: [https://arxiv.org/abs/2207.03024](https://arxiv.org/abs/2207.03024)
+paperurl: https://arxiv.org/abs/2207.03024
 citation: 
 ---
 
