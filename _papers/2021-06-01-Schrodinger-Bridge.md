@@ -11,6 +11,8 @@ citation:
 
 Diffusion Schr&ouml;dinger Bridge with Applications to Score-Based Generative Modeling. Accepted as a spotlight paper at NeurIPS 2021.
 
+Paper: [https://arxiv.org/abs/2106.01357](https://arxiv.org/abs/2106.01357)
+
 ## Contributors
 
 
