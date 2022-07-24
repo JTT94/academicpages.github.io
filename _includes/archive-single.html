@@ -34,6 +34,8 @@
       {% endif %}
     </h2>
     
+    <div class="collapse" id="collapse{{ post.id }}">
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -56,6 +58,7 @@
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
+  </div>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
