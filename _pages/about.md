@@ -13,7 +13,7 @@ redirect_from:
 I am a PhD student (DPhil) in the Computational Statistics and Machine Learning (CSML) research group within the Department of Statistics at the University of Oxford, supervised by [George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/) and [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/).
 
 ### Research Interests
-I am interested in developing methodology at the intersection sampling methods, Optimal Transport and deep learning. I am particularly interested in diffusion/ score based generative models and its connection to Optimal transport with the diffusion Schrodinger Bridge. I maintain a website of paper in this area: [https://scorebasedgenerativemodeling.github.io/](https://scorebasedgenerativemodeling.github.io/).
+I am interested in developing methodology at the intersection sampling methods, Optimal Transport and deep learning. I am particularly interested in diffusion/ score based generative models and its connection to Optimal transport with the Diffusion Schrodinger Bridge. I maintain a website of papers in this area: [https://scorebasedgenerativemodeling.github.io/](https://scorebasedgenerativemodeling.github.io/).
 
 ### Research Placements
 - [Nvidia Learning and Perception Research Team](https://www.nvidia.com/en-us/research/), 2022. I am currently interning with Jiaming Song, Ben Eckhart, and Arash Vahdat, working on diffusion probabilistic generative models. 
