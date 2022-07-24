@@ -10,9 +10,7 @@ citation:
 ---
 
 A novel interpretation of diffusion based generative modeling, extending beyond the first time reversal, enabling faster generative models and dataset interpolation / unpaired image to image translation. Accepted as a spotlight paper at NeurIPS 2021.
-
-[Paper](https://arxiv.org/abs/2106.01357)
-
+Paper: [https://arxiv.org/abs/2106.01357](https://arxiv.org/abs/2106.01357)
 ```
   @article{de2021diffusion,
   title={Diffusion Schr{\"o}dinger bridge with applications to score-based generative modeling},
@@ -23,7 +21,7 @@ A novel interpretation of diffusion based generative modeling, extending beyond 
   year={2021}
 }
 ```
-Paper: [https://arxiv.org/abs/2106.01357](https://arxiv.org/abs/2106.01357)
+
 
 ## Contributors
 
