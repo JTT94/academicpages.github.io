@@ -10,7 +10,11 @@ citation:
 ---
 
 A novel, principled approach to Differentiable Particle Filtering, using Optimal Transport. Long talk/ oral at ICML 2021.
+
 Paper: [https://arxiv.org/abs/2102.07850](https://arxiv.org/abs/2102.07850)
+<details>
+  <summary>Cite</summary>
+  
 ```
   @inproceedings{corenflos2021differentiable,
   title={Differentiable particle filtering via entropy-regularized optimal transport},
@@ -21,6 +25,8 @@ Paper: [https://arxiv.org/abs/2102.07850](https://arxiv.org/abs/2102.07850)
   organization={PMLR}
 }
 ```
+</details>
+
 
 Particle Filtering (PF) methods are an established class of procedures for performing inference in non-linear state-space models. Resampling is a key ingredient of PF, necessary to obtain low variance likelihood and states estimates. However, traditional resampling methods result in PF-based loss functions being non-differentiable with respect to model and PF parameters. In a variational inference context, resampling also yields high variance gradient estimates of the PF-based evidence lower bound. By leveraging optimal transport ideas, we introduce a principled differentiable particle filter and provide convergence results. We demonstrate this novel method on a variety of applications.
 Accepted as a Long talk at ICML 2021.
