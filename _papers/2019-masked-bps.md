@@ -3,7 +3,7 @@ title: "Masked Bouncy Particle Sampler"
 collection: papers
 permalink: /papers/2020-masked-bps
 excerpt: 
-date: 2020
+date: 2019-01-01
 venue: Preprint
 paperurl: https://github.com/JTT94/jtt94.github.io/raw/master/files/Masked_Bouncy_Particle_Sampler.pdf
 citation: 
