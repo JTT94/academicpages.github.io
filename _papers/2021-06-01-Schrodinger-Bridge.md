@@ -6,7 +6,13 @@ excerpt:
 date: 2021-06-01
 venue: 
 paperurl: https://arxiv.org/abs/2106.01357
-citation: @article{de2021diffusion,
+citation: 
+---
+
+A novel interpretation of diffusion based generative modeling, extending beyond the first time reversal, enabling faster generative models and dataset interpolation / unpaired image to image translation. Accepted as a spotlight paper at NeurIPS 2021.
+
+```
+  @article{de2021diffusion,
   title={Diffusion Schr{\"o}dinger bridge with applications to score-based generative modeling},
   author={De Bortoli, Valentin and Thornton, James and Heng, Jeremy and Doucet, Arnaud},
   journal={Advances in Neural Information Processing Systems},
@@ -14,9 +20,7 @@ citation: @article{de2021diffusion,
   pages={17695--17709},
   year={2021}
 }
----
-
-Accepted as a spotlight paper at NeurIPS 2021.
+```
 Paper: [https://arxiv.org/abs/2106.01357](https://arxiv.org/abs/2106.01357)
 
 ## Contributors
