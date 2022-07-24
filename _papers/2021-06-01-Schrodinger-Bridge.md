@@ -6,11 +6,17 @@ excerpt:
 date: 2021-06-01
 venue: 
 paperurl: https://arxiv.org/abs/2106.01357
-citation: 
+citation: @article{de2021diffusion,
+  title={Diffusion Schr{\"o}dinger bridge with applications to score-based generative modeling},
+  author={De Bortoli, Valentin and Thornton, James and Heng, Jeremy and Doucet, Arnaud},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={17695--17709},
+  year={2021}
+}
 ---
 
 Diffusion Schr&ouml;dinger Bridge with Applications to Score-Based Generative Modeling. Accepted as a spotlight paper at NeurIPS 2021.
-
 Paper: [https://arxiv.org/abs/2106.01357](https://arxiv.org/abs/2106.01357)
 
 ## Contributors
