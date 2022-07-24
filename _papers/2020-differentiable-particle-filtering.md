@@ -4,7 +4,7 @@ collection: papers
 permalink: /papers/2020-differentiable-particle-filtering
 excerpt: 
 date: 2020-04-01
-venue: ICML 2021
+venue: "Oral (long talk), ICML 2021"
 paperurl: https://arxiv.org/abs/2102.07850
 citation: 
 ---
