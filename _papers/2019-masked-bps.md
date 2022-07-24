@@ -14,14 +14,14 @@ A parallelizble, continous time PDMP MCMC procedure.
 <details>
   <summary>Cite</summary>
   
-  ```
+  ````
   @misc{thornton2020masked,
     title={The Masked Bouncy Particle Sampler: A Parallel, Chromatic, Piecewise-Deterministic Markov Chain Monte Carlo Method},
     author={Thornton, James},
     journal={https://jtt94.github.io/papers/2020-masked-bps},
     year={2020}
   }
-```
+````
 </details>
 
 
