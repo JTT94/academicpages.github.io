@@ -16,7 +16,7 @@ citation: @article{thornton2022riemannian,
 }
 ---
 
-Extending Diffusion Schrodinger Bridge to enable faster generative modeling and unpaired dataset interpolation on compact Riemannian manifolds.
+Extending Diffusion Schrodinger Bridge to enable faster generative modeling and unpaired dataset interpolation on compact Riemannian manifolds. ICML 2022, Continuous Time Methods in Machine Learning.
 
 Paper: [https://arxiv.org/abs/2207.03024](https://arxiv.org/abs/2207.03024)
 
