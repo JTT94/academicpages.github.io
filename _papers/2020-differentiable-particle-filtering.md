@@ -10,9 +10,7 @@ citation:
 ---
 
 A novel, principled approach to Differentiable Particle Filtering, using Optimal Transport. Long talk/ oral at ICML 2021.
-
-[Paper](https://arxiv.org/abs/2102.07850)
-
+Paper: [https://arxiv.org/abs/2102.07850](https://arxiv.org/abs/2102.07850)
 ```
   @inproceedings{corenflos2021differentiable,
   title={Differentiable particle filtering via entropy-regularized optimal transport},
