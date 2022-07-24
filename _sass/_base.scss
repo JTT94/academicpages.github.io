@@ -54,7 +54,9 @@ h6 {
 }
 
 #bloc1, #bloc2, #bloc3 {
-    display:inline-block;
+   display:inline-block;
+   border-radius: 10px;
+   background-color: lightgray
 }
 
 #bloc2:hover {
