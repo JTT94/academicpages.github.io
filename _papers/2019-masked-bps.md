@@ -10,7 +10,6 @@ citation:
 ---
 
 A parallelizble, continous time PDMP MCMC procedure.
-
 ```
   @misc{thornton2020masked,
     title={The Masked Bouncy Particle Sampler: A Parallel, Chromatic, Piecewise-Deterministic Markov Chain Monte Carlo Method},
