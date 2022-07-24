@@ -10,6 +10,7 @@ citation:
 ---
 
 A parallelizble, continous time PDMP MCMC procedure.
+
 <details>
   <summary>Cite</summary>
   
