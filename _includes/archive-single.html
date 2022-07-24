@@ -13,7 +13,6 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <div id="bloc2">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -35,7 +34,7 @@
       {% endif %}
     </h2>
     
-    <div class="collapse" id="collapse{{ post.id }}">
+    <div id="bloc2">
 
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -64,6 +63,5 @@
     {% endif %}
   
     </div>
-  </div>  
   </article>
 </div>
