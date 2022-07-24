@@ -7,6 +7,7 @@ date: 2020-04-01
 venue: "Oral (long talk), ICML 2021"
 paperurl: https://arxiv.org/abs/2102.07850
 citation: 
+code: https://github.com/jtt94/filterflow
 ---
 
 A novel, principled approach to Differentiable Particle Filtering, using Optimal Transport. Long talk/ oral at ICML 2021.
