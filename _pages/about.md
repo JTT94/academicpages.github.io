@@ -17,7 +17,7 @@ I am interested in developing methodology at the intersection sampling methods, 
 
 ### Research Placements
 - [Nvidia Learning and Perception Research Team](https://www.nvidia.com/en-us/research/), 2022. I am currently interning with Jiaming Song, Ben Eckhart, and Arash Vahdat, working on diffusion probabilistic generative models. 
-- [Apple Machine Learning Resarch](https://machinelearning.apple.com/), 2022. I undertook a research internship with [Marco Cuturi](https://marcocuturi.net/) working on [improving the efficiency of Sinkhorn via initializations](https://jtt94.github.io/papers/2022-init-sink), open source contributions to [OTT](https://github.com/ott-jax/ott) and score-based generative modeling (coming soon). 
+- [Apple Machine Learning Resarch](https://machinelearning.apple.com/), 2022. I undertook a research internship with [Marco Cuturi](https://marcocuturi.net/) working on [improving the efficiency of Sinkhorn via initializations](https://jtt94.github.io/papers/2022-init-sink) and open sourced this to [OTT](https://github.com/ott-jax/ott). 
 - Astrazeneca, 2021. I undertook an applied research project with Dino Oglic in the respiratory AI team, focusing on audio detection using deep attention based architectures, including implementing and investigating the use of PerceiverIO.
 
 
