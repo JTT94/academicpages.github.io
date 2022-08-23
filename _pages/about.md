@@ -27,7 +27,7 @@ I was one of the early advocates of diffusion models and maintain a website of d
 Below are some papers I am particularly proud of:
 
 - [Riemannian Diffusion Schrodinger Bridge](https://jtt94.github.io/papers/2022-rdsb), ICML Continuous time methods in ML, 2022
-- [Diffusion Schrodinger Bridge and Score Based Generative Modeling](https://jtt94.github.io/papers/schrodinger_bridge), Spotlight NeurIPS 2021 (spotlight)
+- [Diffusion Schrodinger Bridge and Score Based Generative Modeling](https://jtt94.github.io/papers/schrodinger_bridge), NeurIPS 2021 (spotlight)
 - [Differentiable Particle Filtering via Optimal Transport](https://jtt94.github.io/papers/2020-differentiable-particle-filtering), ICML 2021 (oral/ long talk)
 
 For a full list please see [Google scholar](https://scholar.google.co.uk/citations?user=oFZHOwgAAAAJ&hl=en) or [here](https://jtt94.github.io/papers/)
