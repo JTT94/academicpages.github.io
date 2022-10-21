@@ -18,7 +18,7 @@ I am interested in developing methodology at the intersection of: sampling metho
 I was one of the early advocates of diffusion models and maintain a website of diffusion/score papers: [https://scorebasedgenerativemodeling.github.io/](https://scorebasedgenerativemodeling.github.io/).
 
 ### Research Placements
-- [Nvidia Learning and Perception Research Team](https://www.nvidia.com/en-us/research/), 2022. I am currently interning with Jiaming Song, Ben Eckhart, and Arash Vahdat, working on diffusion probabilistic generative models. 
+- [Nvidia Learning and Perception Research Team](https://www.nvidia.com/en-us/research/), 2022. I interned with Jiaming Song, Ben Eckhart, and Arash Vahdat, working on diffusion probabilistic generative models for 3D.
 - [Apple Machine Learning Resarch](https://machinelearning.apple.com/), 2022. I undertook a research internship with [Marco Cuturi](https://marcocuturi.net/) working on [improving the efficiency of Sinkhorn via initializations](https://jtt94.github.io/papers/2022-init-sink) and open sourced this to [OTT](https://github.com/ott-jax/ott). 
 - Astrazeneca, 2021. I undertook an applied research project with Dino Oglic in the respiratory AI team, focusing on audio detection using deep attention based architectures, including implementing and investigating the use of PerceiverIO.
 
