@@ -10,11 +10,11 @@ redirect_from:
 
 
 ## About
-I joined Apple as research scientist within the [Machine Learning Research (MLR)](https://machinelearning.apple.com) group.
+I joined Apple as a research scientist within the [Machine Learning Research (MLR)](https://machinelearning.apple.com) group.
 
 Prior to Apple, I did my PhD (DPhil) in the Computational Statistics and Machine Learning (CSML) research group within the Department of Statistics at the University of Oxford, supervised by [George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/) and [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/).
 
-My PhD is available [here](https://github.com/JTT94/jtt94.github.io/raw/master/files/thesis.pdf).
+My PhD thesis is available [here](https://github.com/JTT94/jtt94.github.io/raw/master/files/thesis.pdf).
 
 
 ### Research Interests
