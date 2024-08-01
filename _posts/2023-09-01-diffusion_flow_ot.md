@@ -8,4 +8,5 @@ tags:
   - flowmatching
 ---
 
+
 ![Taxonomy of Diffusion, Flow and Bridge Matching through OT](files/BridgeOT.png)
