@@ -9,4 +9,4 @@ tags:
 ---
 
 
-![Taxonomy](https://github.com/JTT94/jtt94.github.io/blob/c337ff85666b727f56f2800f6576988573b65f33/files/BridgeOT.png)
+![Taxonomy](../files/BridgeOT.png)
