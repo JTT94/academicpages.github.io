@@ -10,7 +10,9 @@ redirect_from:
 
 
 ## About
-I joined Apple as a research scientist within the [Machine Learning Research (MLR)](https://machinelearning.apple.com) group.
+I will he joining Google DeepMind as a research scientist from March. 
+
+I wasa research scientist within the [Machine Learning Research (MLR)](https://machinelearning.apple.com) group at Apple beforehand.
 
 Prior to Apple, I did my PhD (DPhil) in the Computational Statistics and Machine Learning (CSML) research group within the Department of Statistics at the University of Oxford, supervised by [George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/) and [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/).
 
