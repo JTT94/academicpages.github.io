@@ -18,9 +18,11 @@ Prior to Apple, I did my PhD (DPhil) in the Computational Statistics and Machine
 
 My PhD thesis is available [here](https://github.com/JTT94/jtt94.github.io/raw/master/files/thesis.pdf).
 
+## Contact Email
+I have changed emails recently so apologies for those emailing an expired address - please do not email @apple.com or @ox.ac.uk. My email is jamestomthornton "at" gmail.com.
 
 ### Research Interests
-I am interested in developing methodology at the intersection of: sampling methods, optimal transport and deep learning. I am particularly focused on dynamically evolving probability measures through filtering and diffusion models. 
+I am interested in developing scalable and theoretically grounded methodology for generative modelling at the intersection of: sampling methods (SMC), and optimal transport. I am particularly focused on dynamically evolving probability measures through filtering and diffusion models. 
 
 Notable work includes connecting diffusion models to optimal transport through the [Diffusion Schrodinger Bridge](https://jtt94.github.io/papers/schrodinger_bridge), which was one of the first image-to-image diffusion models, its extension to the [Riemannian setting](https://arxiv.org/abs/2207.03024); and [Differentiable Particle Filtering](https://jtt94.github.io/papers/2020-differentiable-particle-filtering), which provides a theoretically grounded approach to the long standing problem of parameter learning in state-space models. For an up-to-date list of works please see [Google scholar](https://scholar.google.co.uk/citations?user=oFZHOwgAAAAJ&hl=en).
 
